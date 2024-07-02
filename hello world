@@ -1,0 +1,12 @@
+Dhoni's family is from the community of the Rajputs and a simple middle-class family. Dhoni's father Pan Singh Dhoni worked for MECON, a public-sector engineering firm and his mother Devki Devi, a housewife. He has an elder brother Narendra Singh Dhoni who is a politician and a sister Jayanti Gupta who is a teacher.
+
+Write a program to display Dhoni's family details, in the following format:
+M. S. Dhoni
+Father: Mr. Pan Singh
+Mother: Mrs. Devki Devi
+Siblings: Narendra Singh and Jayanti Gupta
+#solution
+print("M.S Dhoni")
+print("Father: Mr.Pan singh")
+print("Mother: Mrs.Devki Devi")
+print("Siblings: Narendra Singh and Jayanti Gupta")
